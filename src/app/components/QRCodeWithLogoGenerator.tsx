@@ -48,7 +48,7 @@ const [includeMargin, setIncludeMargin] = useState(false);
   };
 
   return (
-    <div className="flex flex-col items-center justify-center h-screen bg-black my-24 py-8">
+    <div className="flex flex-col items-center justify-center bg-black py-8">
       <div className="space-y-4">
         <label className="block text-lg text-white">
           <span className="text-white text-xl">URL para Codificar:</span>
